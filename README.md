@@ -41,23 +41,6 @@
 
 ---
 
-### 🎓 Certifications
-
-- ✅ [Data Structures and Algorithms using Java – Infosys Springboard](https://verify.onwingspan.com)  
-  *Issued on: June 11, 2025*
-
-- 📜 [Free Python Course – GeeksforGeeks](https://media.geeksforgeeks.org/courses/certificates/7d8edfff7dba606e5c5f31f05b9868c3.pdf)  
-  *Completed in: 2025*
-
-- 🤖 Machine Learning – Simplilearn  
-  *Issued on: December 17, 2024*  
-  *Certificate Code: 7679090*
-
-- 🌐 Web Development Training – Internshala  
-  *Completed in: August 2025*
-
----
-
 
 ### 📫 Let’s Connect!
 
